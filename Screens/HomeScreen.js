@@ -20,7 +20,7 @@ const HomeScreen = () => {
                   source={{uri: 'https://links.papareact.com/gzs'}}
                 />
 
-                <GooglePlacesAutocomplete
+                {/*<GooglePlacesAutocomplete
                   placeholder="Where From ?" 
                   styles={{
                       container: {
@@ -31,7 +31,7 @@ const HomeScreen = () => {
                           backgroundColor: '#D3D3D3',
                       },
                   }}
-                />
+                />*/}
 
                 <NavOption />
 
