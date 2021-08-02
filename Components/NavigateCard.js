@@ -3,7 +3,6 @@ import { TouchableOpacity,StyleSheet,Button, Text, View,SafeAreaView } from 'rea
 import tw from "tailwind-react-native-classnames";
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 import { useNavigation } from '@react-navigation/native';
-import RideOptionsCard from './RideOptionsCard';
 import NavFavouirte from './NavFavouirte';
 import { Icon } from 'react-native-elements';
 

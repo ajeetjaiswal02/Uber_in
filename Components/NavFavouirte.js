@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { Text, View } from 'react-native'
 import { FlatList, TouchableOpacity } from 'react-native-gesture-handler'
 import { Icon } from 'react-native-elements';
 import tw from "tailwind-react-native-classnames";
@@ -49,4 +49,3 @@ const NavFavouirte = () => {
 
 export default NavFavouirte
 
-const styles = StyleSheet.create({})
